@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Broadcast Receiver</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
